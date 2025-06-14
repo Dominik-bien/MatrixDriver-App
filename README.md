@@ -8,9 +8,9 @@ My first project using an Arduino Uno and a 32x8 MAX7219 LED matrix, with animat
 -  Serial communication
  
  ## 📂 Project Structure
--Arduino – Arduino code
--Application - Windows application project
--imagesAndVideo - Images and videos 
+ -Arduino – Arduino code
+ -Application - Windows application project
+ -imagesAndVideo - Images and videos 
 
 ## 🚀 How It Works
 
