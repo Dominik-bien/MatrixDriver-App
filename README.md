@@ -1,16 +1,19 @@
 # MatrixDriver-App
 My first project using an Arduino Uno and a 32x8 MAX7219 LED matrix, with animation control managed through a WinForms application
 
+
 ## 🛠️ Technologies
 - Arduino UNO
 - MAX7219 32x8 LED matrix
 - C# WinForms
 -  Serial communication
  
+
  ## 📂 Project Structure
- -Arduino: Arduino code
- -Application: Windows application project
--imagesAndVideo: Images and videos 
+ - Arduino: Arduino code
+ - Application: Windows application project
+ - imagesAndVideo: Images and videos 
+
 
 ## 🚀 How It Works
 
